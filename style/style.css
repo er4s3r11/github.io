@@ -1,0 +1,97 @@
+    body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    }
+    .screen-background {
+    position: absolute;
+    min-width: 1500px;
+    min-weight: 900px;
+    background: url(images/bg3.png) center center/cover no-repeat;
+    }
+    .container {
+    position: absolute;
+    width: 1300px;
+    height: 800px;
+    margin: 80px 100px;
+    background: url(images/bg.jpg) center center/cover no-repeat;
+    }
+    .promo_wrapper {
+    display: inline-block;
+    height: 400px;
+    width: 600px;
+    background-color: #fff;
+    margin: 200px 350px 200px 350px;
+    line-height: 1.2;
+    }
+    .inner-container {
+	width: 300px;
+	height: 400px;
+	float: left;
+    }
+    .img{
+    float: left;
+    height: 100%;
+    max-width: 100%;
+    }
+    .title{
+    display: inline-block;
+    font-family: Monsterrat;
+    font-weight: 500;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: darkgrey;
+    letter-spacing: 5px;
+    padding: 25px 20px 0 20px; 
+}
+h1{
+    font-family: Fraunces;
+    font-weight: 800;
+    font-size: 25px;
+    color: rgb(8, 8, 8);
+    letter-spacing: 1px;
+    padding: 5px 20px;
+}
+h2 {
+    font-family: Monsterrat;
+    font-weight:500;
+    line-height: normal;
+    font-size: 16px;
+    color: darkgrey;
+    padding: 5px 20px;
+}
+.price {
+    font-family: Fraunces;
+    font-weight:700;
+    font-size: 20px;
+    color: darkgreen;
+    letter-spacing: 1px;
+	padding: 5px 20px;
+}
+.price_old {
+    font-family: Fraunces;
+    font-weight:500;
+    font-size: 14px;
+    text-decoration: line-through;
+    color: darkgrey;
+    letter-spacing: 1px;
+    padding: 5px 20px;
+}
+.button {
+	text-align: center;
+	background-color: darkgreen;
+	width: 60%;
+	margin: 5% 10%;
+	padding: 10px 5px;
+	border-radius: 10px 10px;
+}
+.button_text {
+	font-family: Fraunces;
+	font-weight:700;
+	font-size: 18px;
+	color: #fff;
+}
+    
+        .attribution { font-size: 11px; text-align: center; }
+        .attribution a { color: hsl(228, 45%, 44%); }
