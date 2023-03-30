@@ -8,14 +8,14 @@
     position: absolute;
     min-width: 1500px;
     min-weight: 900px;
-    background: url(images/bg3.png) center center/cover no-repeat;
+    background: url(./images/bg3.png) center center/cover no-repeat;
     }
     .container {
     position: absolute;
     width: 1300px;
     height: 800px;
     margin: 80px 100px;
-    background: url(images/bg.jpg) center center/cover no-repeat;
+    background: url(./images/bg.jpg) center center/cover no-repeat;
     }
     .promo_wrapper {
     display: inline-block;
