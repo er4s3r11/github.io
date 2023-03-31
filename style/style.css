@@ -8,7 +8,9 @@
     position: absolute;
     min-width: 1500px;
     min-weight: 900px;
-    background: url("/images/bg3.png") center center/cover no-repeat;
+    background-image: url("/images/bg3.png");
+    background-repeat: no-repeat;
+    background-position: center;
     }
     .container {
     position: absolute;
