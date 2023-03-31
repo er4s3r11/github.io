@@ -15,7 +15,7 @@
     width: 1300px;
     height: 800px;
     margin: 80px 100px;
-    background: url(images/bg.jpg) center center/cover no-repeat;
+    background-image: url("/images/bg.jpg");
     }
     .promo_wrapper {
     display: inline-block;
